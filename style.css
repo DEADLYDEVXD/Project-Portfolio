@@ -1,0 +1,71 @@
+#id_2:active{
+         color: rgb(196, 222, 135);
+            text-decoration: none;
+            box-shadow: 3px 4px 6px 3px lightblue;
+            text-decoration: none;
+
+}
+#id_2:link{
+     color: burlywood;
+            text-decoration: underline;
+            box-shadow: 3px 4px 6px 3px lightblue;
+            text-decoration: none;
+
+}
+#id_2:visited{
+    color: snow;
+    text-decoration: none;
+
+
+}
+#id_3{
+    /* width: 300px;
+    height: 300px; */
+    position: relative;
+    top: 200px;
+    left:200px;
+    border-radius: 50%;
+    object-fit: cover;
+    display:flex;
+    /* position:fixed; */
+    /* transform: (300px,10px); */
+    margin-right: 10px;
+    
+    
+}
+#id_4{
+    /* text-align: center; */
+    /* text-size-adjust: auto; */
+    height: 1000px;
+    background-color: silver;
+    background-size: cover;
+    display: flex;
+    /* margin-right: 10px;  */
+    /* text-align:left; */
+    /* align-items: center; */
+    /* gap: 20px; */
+    
+
+}
+
+#id_11{
+    /* text-align: center; */
+    margin:-150px 650px 1000px 700px; 
+    font-weight: 600;
+    font-size: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#id_10{
+
+
+    margin-top: 500px;
+   /* text-align: center; */
+    /* margin:1000px 750px 700px 800px;  */
+    /* font-weight: 600;
+    font-size: 100px; */
+}
+
+@keyframes dev{
+    from{left:0px;}
+    to{left:200px;}
+}
