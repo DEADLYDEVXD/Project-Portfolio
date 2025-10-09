@@ -69,3 +69,36 @@
     from{left:0px;}
     to{left:200px;}
 }
+#id_12{
+    /* padding:20px; */
+    /* margin: 20px; */
+    /* display: flex;
+    justify-content: space-between; */
+    padding-left: 20px;
+    background-color:  rgb(98, 105, 104);
+}
+#id_13{
+    display: inline;
+    padding-left: 500px;
+    background-color:  rgb(98, 105, 104);
+}
+#id_14{
+    display: inline;
+    padding-left: 1200px;
+background-color:  rgb(98, 105, 104);
+}
+/* #id_12:hover{
+    text-decoration: underline yellowgreen;
+    color: rgb(29, 36, 44);
+}
+#id_13:hover{
+    text-decoration: underline yellowgreen;
+    color: rgb(65, 154, 255);
+} */
+ #id_15{
+    text-decoration: underline yellowgreen;
+    color: rgb(65, 154, 255);
+ }
+ #id_16{
+    
+ }
