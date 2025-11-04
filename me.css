@@ -1,12 +1,12 @@
 #id_3:hover{
     /* background-image:url(Me.jpg); */
-    box-shadow: 10px 14px 17px 16px rgb(241, 255, 177);
+    box-shadow: 10px 10px 50px 10px rgb(241, 255, 177);
     /* opacity: 0.7; */
 
 
 }
 #id_1:hover{
-    box-shadow: 5px 7px 6px 5px rgb(215, 238, 160);
+    box-shadow: 5px 7px 25px 5px rgb(184, 244, 255);
 
 }
 
